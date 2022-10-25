@@ -1,0 +1,9 @@
+2022-10-22 13:06:45,657 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-22 13:08:31,213 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.tipu:ServletPractice1:0.0.1-SNAPSHOT @ D:\Developing\Spring\Masud  Vai\Projects\ServletPractice1\pom.xml.
+2022-10-22 13:08:31,659 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.tipu:ServletPractice2:0.0.1-SNAPSHOT @ D:\Developing\Spring\Masud  Vai\Projects\ServletPractice2\pom.xml.
+2022-10-22 13:08:40,377 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletPractice2/src/main/java
+2022-10-22 13:08:40,378 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletPractice2/src/test/java
+2022-10-22 13:08:42,351 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletPractice1/src/main/java
+2022-10-22 13:08:42,352 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletPractice1/src/test/java
+2022-10-22 13:08:42,848 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 35 sec
+2022-10-24 18:39:24,133 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
